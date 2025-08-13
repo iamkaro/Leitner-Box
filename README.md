@@ -15,6 +15,10 @@ It is also possible to define words in different networks. Using this feature, y
 <br>
 
 
+<picture><img height="60px" src="README/icon.png" alt="icon"></picture>  
+
+
+
 ### Compile the program
 After downloading the project source, open the project in Visual Studio by clicking on the [AllLanguages.sln](AllLanguages.sln) file and compile it.
 <br>
