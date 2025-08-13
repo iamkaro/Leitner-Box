@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+   - I am Karo  😊👍
+   -
+   - Contact me:
+   -     https://www.karo.link/
+   -     https://github.com/iamkaro
+   -     https://www.linkedin.com/in/iamkaro
+   -
+   - Leitner Box  (app)
+   - https://github.com/iamkaro/Leitner-Box.git
+   - Copyright © 2014 developed.
+   -->
+
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory />
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
